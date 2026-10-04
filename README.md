@@ -138,25 +138,7 @@ Here, `n` is the number of input elements. “Auxiliary space” describes worki
 
 **Efficiency justification:** Since all prices are non-negative, replacing any selected expensive toy with an unselected cheaper one never increases spending. Therefore, the cheapest affordable prefix yields the maximum possible count.
 
-## Evidence & Badges
 
-Add your own screenshots after accepting each submission on HackerRank. Store image files in a root-level `screenshots/` directory using the names shown below.
-
-### Accepted Submissions
-
-![Mini-Max Sum accepted submission](./screenshots/problem-1.png)
-
-![Birthday Cake Candles accepted submission](./screenshots/problem-2.png)
-
-![Insertion Sort - Part 1 accepted submission](./screenshots/problem-3.png)
-
-![Binary Search accepted submission](./screenshots/problem-4.png)
-
-![Mark and Toys accepted submission](./screenshots/problem-5.png)
-
-### HackerRank Badge
-
-![HackerRank Badge](./screenshots/badge.png)
 
 ## Reflective Summary
 
